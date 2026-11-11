@@ -15,4 +15,6 @@ Open `index.html` in a browser, or run `python -m http.server 8080` in this dire
 
 ## Hosting
 
-The repository root can be served by any static host, including GitHub Pages. To use GitHub Pages, select **Settings > Pages > Deploy from a branch > main > / (root)**. Uploading this repository does not itself enable Pages.
+Live site: https://chickmen89.github.io/dod-skin-landing/
+
+GitHub Pages publishes the `main` branch from `/ (root)`. Updates pushed to `main` are deployed automatically. The `.nojekyll` file keeps the site as plain static files without Jekyll processing.
